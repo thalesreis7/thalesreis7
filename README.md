@@ -20,7 +20,7 @@
 
 ## Bibliotecas :
 <div>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,styledcomponents&theme=dark" />
 </div>
 
 <div align="center">  
