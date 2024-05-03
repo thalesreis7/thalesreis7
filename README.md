@@ -10,17 +10,25 @@
 
 ## Skills :
 <div>
- <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git,github&theme=dark" />
+ <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark" />
 </div>
 
 ## Frameworks :
 <div>
  <img src="https://skillicons.dev/icons?i=vite,next&theme=dark" />
 </div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thalesreis7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="thalesreis7 github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesreis7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+## Bibliotecas :
+<div>
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </div>
+
+<div align="center">  
+<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?    -->
+<!--    username=thalesreis7&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="thalesreis7 github stats" />  -->
+<!--   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesreis7&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /> -->
+</div>
+
 
 <!--### Main skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
