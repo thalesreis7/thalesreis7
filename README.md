@@ -18,7 +18,7 @@
  <img src="https://skillicons.dev/icons?i=vite,next&theme=dark" />
 </div>
 
-## Bibliotecas :
+## Libraries :
 <div>
   <img src="https://skillicons.dev/icons?i=react,styledcomponents&theme=dark" />
 </div>
