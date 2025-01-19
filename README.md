@@ -8,7 +8,7 @@
   </a>
 </div>
 
-## Skills :
+## Tech Stack:
 <div>
  <img src="https://skillicons.dev/icons?i=html,css,js,vscode,git,github&theme=dark" />
 </div>
